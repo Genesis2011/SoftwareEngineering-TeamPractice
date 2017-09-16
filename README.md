@@ -12,3 +12,7 @@ IDE：Eclipse
 Web服务器：Tomcat 7
 
 操作系统：Windows
+
+------
+
+文件夹“Week2-JSP_Add_Example”，是第二周的简单添加功能实例，使用JSP实现。

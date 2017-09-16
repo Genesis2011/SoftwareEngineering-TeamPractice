@@ -7,8 +7,6 @@ $\alpha$组
 
 IDE：Eclipse
 
-编码：ISO Latin-1
-
 数据库：MySQL 5.7
 
 Web服务器：Tomcat 7

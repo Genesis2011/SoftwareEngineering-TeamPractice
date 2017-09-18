@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class BaseDao {
 	private String driverStr="com.mysql.jdbc.Driver";
-	private String url="jdbc:mysql://localhost:3306/mydb?characterEncoding=UTF-8";
+	private String url="jdbc:mysql://localhost:3306/teamdb?characterEncoding=UTF-8";
 	private String user="root";
 	private String pwd="";
 	//打开数据库连接
